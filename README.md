@@ -242,17 +242,6 @@ Answer Generation
 
 ---
 
-## 🔮 Future Improvements
-
-- Multiple PDF support
-- Chat history memory
-- LangGraph workflow integration
-- Source citations with page numbers
-- User authentication
-- FastAPI backend
-- Docker deployment
-
----
 
 ## 👩‍💻 Author
 
